@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'NEUROTECH MD',
+  packname: 'BALLAS𝗑ᴾᴿᴼ',
   author: '‎',
-  botName: "Neurotech Md",
-  botOwner: 'Official Allamano', // Your name
-  ownerNumber: '254785760507', //Set your number here without + symbol, just add country code & number without any space
+  botName: "BALLAS𝗑ᴾᴿᴼ",
+  botOwner: '♤𝗑ᴾᴿᴼ♧', // Your name
+  ownerNumber: '27767494368', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
