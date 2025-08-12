@@ -1,7 +1,7 @@
 const settings = require("../settings");
 async function aliveCommand(sock, chatId, message) {
     try {
-        const message1 = `*🤖 NEUROTECH MD is Active!*\n\n` +
+        const message1 = `*🤖 BALLAS𝗑ᴾᴿᴼ is Active!*\n\n` +
                        `*Version:* ${settings.version}\n` +
                        `*Status:* Online\n` +
                        `*Mode:* Public\n\n` +
@@ -19,7 +19,7 @@ async function aliveCommand(sock, chatId, message) {
                 isForwarded: false,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '0029VbAGDcU2f3ETH93NUd3o@newsletter',
-                    newsletterName: 'NEUROTECH MD',
+                    newsletterName: '♤𝗑ᴾᴿᴼ♧',
                     serverMessageId: -1
                 }
             }
