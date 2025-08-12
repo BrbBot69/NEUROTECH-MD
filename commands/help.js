@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'NEUROTECH-MD'}*  
+   *🤖 ${settings.botName || 'BALLAS𝗑ᴾᴿᴼ'}*  
    Version: *${settings.version || '2.0.5'}*
-   by ${settings.botOwner || 'Official Allamano'}
+   by ${settings.botOwner || '♤𝗑ᴾᴿᴼ♧'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -156,7 +156,7 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .repo
 ╚═══════════════════╝
 
-Join our channel for updates:`;
+POWERED BY ♤𝗑ᴾᴿᴼ♧:`;
 
     try {
         const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
@@ -172,7 +172,7 @@ Join our channel for updates:`;
                     isForwarded: false,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '0029VbAGDcU2f3ETH93NUd3o@newsletter',
-                        newsletterName: 'NEUROTECH MD',
+                        newsletterName: '♤𝗑ᴾᴿᴼ♧',
                         serverMessageId: -1
                     }
                 }
