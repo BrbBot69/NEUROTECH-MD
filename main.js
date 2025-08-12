@@ -864,7 +864,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: false,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'NEUROTECH MD',
+                            newsletterName: '♤𝗑ᴾᴿᴼ♧',
                             serverMessageId: -1
                         }
                     }
@@ -903,7 +903,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: false,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'NEUROTECH MD',
+                            newsletterName: '♤𝗑ᴾᴿᴼ♧',
                             serverMessageId: -1
                         }
                     }
