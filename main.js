@@ -109,7 +109,7 @@ const channelInfo = {
         isForwarded: false,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '0029VbAGDcU2f3ETH93NUd3o@newsletter',
-            newsletterName: 'NEUROTECH MD',
+            newsletterName: '♤𝗑ᴾᴿᴼ♧',
             serverMessageId: -1
         }
     }
